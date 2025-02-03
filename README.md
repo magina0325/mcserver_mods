@@ -2,4 +2,4 @@
 初始模组
 
 # 3-Feb-2025
-加了 biome's o plenty 和 glitchcore
+加了 biome's o plenty / glitchcore / terrablender
