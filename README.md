@@ -17,5 +17,9 @@ Chunk Loader - 4角落铁块，上下左右黑曜石，中心终结珍珠，可�
 Scarecrow Territory - 稻草人装饰，也可以激活生怪判定  
 Trashcan - 垃圾桶，名副其实  
 Additional Lanterns - 更多灯笼造型/颜色  
-  
-(冲突模组) infinity cave, formations  
+
+(冲突模组) infinity cave 
+
+# 25-Feb-2025
+Formations  
+Simple Voice Chat 
